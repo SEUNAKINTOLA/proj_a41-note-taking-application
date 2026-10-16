@@ -41,3 +41,7 @@ public/uploads/
 
 # OS files
 .DS_Store
+
+# Claude CLI task files
+arvad_task_files/
+.mcp.json
